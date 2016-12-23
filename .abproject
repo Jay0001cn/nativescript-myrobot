@@ -1,0 +1,28 @@
+{
+  "ProjectName": "nativescript-myrobot",
+  "ProjectGuid": "{b6b55aaf-9b36-4e7a-bdba-845ba42cc32a}",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.nativescriptmyrobot",
+  "DisplayName": "nativescript-myrobot",
+  "Author": "",
+  "Description": "nativescript-myrobot",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.3.0",
+  "Framework": "NativeScript"
+}

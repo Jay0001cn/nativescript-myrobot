@@ -1,12 +1,15 @@
 {
 	"nativescript": {
-		"id": "com.brosteins.robottalk",
+		"id": "appbuilder init",
 		"tns-ios": {
 			"version": "1.7.0"
+		},
+		"tns-android": {
+			"version": "2.5.0-next-2016-11-07-1357"
 		}
 	},
 	"dependencies": {
 		"nativescript-texttospeech": "^1.1.1",
-		"tns-core-modules": "1.7.1"
+		"tns-core-modules": "2.5.0-2016-10-27-4579"
 	}
 }
